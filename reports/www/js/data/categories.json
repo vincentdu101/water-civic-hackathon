@@ -1,0 +1,354 @@
+{
+  "Reservoirs": {
+    "balloonText": "<span style='font-size:14px; color:#000000;'><b>[[value]]</b></span>",
+    "fillAlphas": 0.6,
+    "lineAlpha": 0.4,
+    "title": "Reservoirs",
+    "valueField": "Reservoirs"
+  }, 
+  "Snow": {
+    "balloonText": "<span style='font-size:14px; color:#000000;'><b>[[value]]</b></span>",
+    "fillAlphas": 0.6,
+    "lineAlpha": 0.4,
+    "title": "Snow",
+    "valueField": "Snow"
+  },       
+  "ANT": {
+    "balloonText": "<span style='font-size:14px; color:#000000;'><b>[[value]]</b></span>",
+    "fillAlphas": 0.6,
+    "lineAlpha": 0.4,
+    "title": "ANTELOPE VALLEY",
+    "valueField": "ANT"
+  }, 
+  "BLB": {
+      "balloonText": "<span style='font-size:14px; color:#000000;'><b>[[value]]</b></span>",
+      "fillAlphas": 0.6,
+      "lineAlpha": 0.4,
+      "title": "BLACK BUTTE",
+      "valueField": "BLB"
+  }, 
+  "BRD": {
+      "balloonText": "<span style='font-size:14px; color:#000000;'><b>[[value]]</b></span>",
+      "fillAlphas": 0.6,
+      "lineAlpha": 0.4,
+      "title": "BEARDSLEY LAKE",
+      "valueField": "BRD"
+  }, 
+  "BUC": {
+      "balloonText": "<span style='font-size:14px; color:#000000;'><b>[[value]]</b></span>",
+      "fillAlphas": 0.6,
+      "lineAlpha": 0.4,
+      "title": "BUCHANAN DAM",
+      "valueField": "BUC"
+  }, 
+  "BUL":{
+      "balloonText": "<span style='font-size:14px; color:#000000;'><b>[[value]]</b></span>",
+      "fillAlphas": 0.6,
+      "lineAlpha": 0.4,
+      "title": "NEW BULLARDS BAR",
+      "valueField": "BUL"
+  }, 
+  "CAS": {
+      "balloonText": "<span style='font-size:14px; color:#000000;'><b>[[value]]</b></span>",
+      "fillAlphas": 0.6,
+      "lineAlpha": 0.4,
+      "title": "CASTAIC",
+      "valueField": "CAS"
+  }, 
+  "CCH": {
+      "balloonText": "<span style='font-size:14px; color:#000000;'><b>[[value]]</b></span>",
+      "fillAlphas": 0.6,
+      "lineAlpha": 0.4,
+      "hidden": true,
+      "title": "CACHUMA LAKE",
+      "valueField": "CCH"
+  }, 
+  "CHV": {
+      "balloonText": "<span style='font-size:14px; color:#000000;'><b>[[value]]</b></span>",
+      "fillAlphas": 0.6,
+      "lineAlpha": 0.4,
+      "hidden": true,
+      "title": "CHERRY VALLEY DAM",
+      "valueField": "CHV"
+  }, 
+  "CLE": {
+      "balloonText": "<span style='font-size:14px; color:#000000;'><b>[[value]]</b></span>",
+      "fillAlphas": 0.6,
+      "lineAlpha": 0.4,
+      "hidden": true,
+      "title": "TRINITY LAKE",
+      "valueField": "CLE"
+  },
+  "CMN": {
+      "balloonText": "<span style='font-size:14px; color:#000000;'><b>[[value]]</b></span>",
+      "fillAlphas": 0.6,
+      "lineAlpha": 0.4,
+      "hidden": true,
+      "title": "CAMANCHE RESERVOIR",
+      "valueField": "CMN"
+  },
+  "COY": {
+      "balloonText": "<span style='font-size:14px; color:#000000;'><b>[[value]]</b></span>",
+      "fillAlphas": 0.6,
+      "lineAlpha": 0.4,
+      "hidden": true,
+      "title": "COYOTE (LAKE MENDOCINO)",
+      "valueField": "CLE"
+  },
+  "DAV": {
+      "balloonText": "<span style='font-size:14px; color:#000000;'><b>[[value]]</b></span>",
+      "fillAlphas": 0.6,
+      "lineAlpha": 0.4,
+      "hidden": true,
+      "title": "LAKE DAVIS (DWR)",
+      "valueField": "CLE"
+  },
+  "DNP": {
+      "balloonText": "<span style='font-size:14px; color:#000000;'><b>[[value]]</b></span>",
+      "fillAlphas": 0.6,
+      "lineAlpha": 0.4,
+      "hidden": true,
+      "title": "DON PEDRO RESERVOIR",
+      "valueField": "DNP"
+  },             
+  "DON": {
+      "balloonText": "<span style='font-size:14px; color:#000000;'><b>[[value]]</b></span>",
+      "fillAlphas": 0.6,
+      "lineAlpha": 0.4,
+      "hidden": true,
+      "title": "DONNELLS",
+      "valueField": "DON"
+  },
+  "ENG": {
+      "balloonText": "<span style='font-size:14px; color:#000000;'><b>[[value]]</b></span>",
+      "fillAlphas": 0.6,
+      "lineAlpha": 0.4,
+      "hidden": true,
+      "title": "ENGLEBRIGHT",
+      "valueField": "ENG"
+  },  
+  "EXC": {
+      "balloonText": "<span style='font-size:14px; color:#000000;'><b>[[value]]</b></span>",
+      "fillAlphas": 0.6,
+      "lineAlpha": 0.4,
+      "hidden": true,
+      "title": "NEW EXCHEQUER-LK MCCLURE",
+      "valueField": "EXC"
+  },  
+  "FOL": {
+      "balloonText": "<span style='font-size:14px; color:#000000;'><b>[[value]]</b></span>",
+      "fillAlphas": 0.6,
+      "lineAlpha": 0.4,
+      "hidden": true,
+      "title": "FOLSOM LAKE",
+      "valueField": "FOL"
+  },  
+  "FRD": {
+      "balloonText": "<span style='font-size:14px; color:#000000;'><b>[[value]]</b></span>",
+      "fillAlphas": 0.6,
+      "lineAlpha": 0.4,
+      "hidden": true,
+      "title": "FRENCHMAN DAM",
+      "valueField": "FRD"
+  },  
+  "HID": {
+      "balloonText": "<span style='font-size:14px; color:#000000;'><b>[[value]]</b></span>",
+      "fillAlphas": 0.6,
+      "lineAlpha": 0.4,
+      "hidden": true,
+      "title": "HIDDEN DAM (HENSLEY)",
+      "valueField": "HID"
+  },  
+  "HTH": {
+      "balloonText": "<span style='font-size:14px; color:#000000;'><b>[[value]]</b></span>",
+      "fillAlphas": 0.6,
+      "lineAlpha": 0.4,
+      "hidden": true,
+      "title": "HETCH HETCHY",
+      "valueField": "HTH"
+  },  
+  "ICH": {
+      "balloonText": "<span style='font-size:14px; color:#000000;'><b>[[value]]</b></span>",
+      "fillAlphas": 0.6,
+      "lineAlpha": 0.4,
+      "hidden": true,
+      "title": "ICE HOUSE (SMUD)",
+      "valueField": "ICH"
+  },  
+  "INP": {
+      "balloonText": "<span style='font-size:14px; color:#000000;'><b>[[value]]</b></span>",
+      "fillAlphas": 0.6,
+      "lineAlpha": 0.4,
+      "hidden": true,
+      "title": "INDEPENDENCE LAKE NEAR TRUCKEE",
+      "valueField": "INP"
+  },  
+  "INV": {
+      "balloonText": "<span style='font-size:14px; color:#000000;'><b>[[value]]</b></span>",
+      "fillAlphas": 0.6,
+      "lineAlpha": 0.4,
+      "hidden": true,
+      "title": "INDIAN VALLEY",
+      "valueField": "INV"
+  },  
+  "ISB": {
+      "balloonText": "<span style='font-size:14px; color:#000000;'><b>[[value]]</b></span>",
+      "fillAlphas": 0.6,
+      "lineAlpha": 0.4,
+      "hidden": true,
+      "title": "ISABELLA DAM",
+      "valueField": "ISB"
+  },  
+  "KES": {
+      "balloonText": "<span style='font-size:14px; color:#000000;'><b>[[value]]</b></span>",
+      "fillAlphas": 0.6,
+      "lineAlpha": 0.4,
+      "hidden": true,
+      "title": "KESWICK RESERVOIR",
+      "valueField": "KES"
+  },  
+  "LEW": {
+      "balloonText": "<span style='font-size:14px; color:#000000;'><b>[[value]]</b></span>",
+      "fillAlphas": 0.6,
+      "lineAlpha": 0.4,
+      "hidden": true,
+      "title": "LEWISTON",
+      "valueField": "LEW"
+  },  
+  "MIL": {
+      "balloonText": "<span style='font-size:14px; color:#000000;'><b>[[value]]</b></span>",
+      "fillAlphas": 0.6,
+      "lineAlpha": 0.4,
+      "hidden": true,
+      "title": "FRIANT DAM (MILLERTON)",
+      "valueField": "MIL"
+  },  
+  "NAT": {
+      "balloonText": "<span style='font-size:14px; color:#000000;'><b>[[value]]</b></span>",
+      "fillAlphas": 0.6,
+      "lineAlpha": 0.4,
+      "hidden": true,
+      "title": "LAKE NATOMA (NIMBUS DAM)",
+      "valueField": "NAT"
+  },
+  "NHG": {
+      "balloonText": "<span style='font-size:14px; color:#000000;'><b>[[value]]</b></span>",
+      "fillAlphas": 0.6,
+      "lineAlpha": 0.4,
+      "hidden": true,
+      "title": "NEW HOGAN LAKE",
+      "valueField": "NHG"
+  },    
+  "NML": {
+      "balloonText": "<span style='font-size:14px; color:#000000;'><b>[[value]]</b></span>",
+      "fillAlphas": 0.6,
+      "lineAlpha": 0.4,
+      "hidden": true,
+      "title": "NEW MELONES RESERVOIR",
+      "valueField": "NML"
+  },  
+  "ORO": {
+      "balloonText": "<span style='font-size:14px; color:#000000;'><b>[[value]]</b></span>",
+      "fillAlphas": 0.6,
+      "lineAlpha": 0.4,
+      "hidden": true,
+      "title": "OROVILLE DAM",
+      "valueField": "ORO"
+  },  
+  "PAR": {
+      "balloonText": "<span style='font-size:14px; color:#000000;'><b>[[value]]</b></span>",
+      "fillAlphas": 0.6,
+      "lineAlpha": 0.4,
+      "hidden": true,
+      "title": "PARDEE",
+      "valueField": "PAR"
+  },  
+  "PNF": {
+      "balloonText": "<span style='font-size:14px; color:#000000;'><b>[[value]]</b></span>",
+      "fillAlphas": 0.6,
+      "lineAlpha": 0.4,
+      "hidden": true,
+      "title": "PINE FLAT DAM",
+      "valueField": "PNF"
+  },  
+  "PRR": {
+      "balloonText": "<span style='font-size:14px; color:#000000;'><b>[[value]]</b></span>",
+      "fillAlphas": 0.6,
+      "lineAlpha": 0.4,
+      "hidden": true,
+      "title": "PERRIS",
+      "valueField": "PRR"
+  },  
+  "PYM": {
+      "balloonText": "<span style='font-size:14px; color:#000000;'><b>[[value]]</b></span>",
+      "fillAlphas": 0.6,
+      "lineAlpha": 0.4,
+      "hidden": true,
+      "title": "PYRAMID",
+      "valueField": "PYM"
+  },  
+  "SCC": {
+      "balloonText": "<span style='font-size:14px; color:#000000;'><b>[[value]]</b></span>",
+      "fillAlphas": 0.6,
+      "lineAlpha": 0.4,
+      "hidden": true,
+      "title": "SUCCESS DAM",
+      "valueField": "SCC"
+  },
+  "SHA": {
+      "balloonText": "<span style='font-size:14px; color:#000000;'><b>[[value]]</b></span>",
+      "fillAlphas": 0.6,
+      "lineAlpha": 0.4,
+      "hidden": true,
+      "title": "SHASTA DAM (USBR)",
+      "valueField": "SHA"
+  },  
+  "SNL": {
+      "balloonText": "<span style='font-size:14px; color:#000000;'><b>[[value]]</b></span>",
+      "fillAlphas": 0.6,
+      "lineAlpha": 0.4,
+      "hidden": true,
+      "title": "SAN LUIS RESERVOIR",
+      "valueField": "SNL"
+  },  
+  "STP": {
+      "balloonText": "<span style='font-size:14px; color:#000000;'><b>[[value]]</b></span>",
+      "fillAlphas": 0.6,
+      "lineAlpha": 0.4,
+      "hidden": true,
+      "title": "STAMPEDE",
+      "valueField": "STP"
+  },  
+  "TRM": {
+      "balloonText": "<span style='font-size:14px; color:#000000;'><b>[[value]]</b></span>",
+      "fillAlphas": 0.6,
+      "lineAlpha": 0.4,
+      "hidden": true,
+      "title": "TERMINUS DAM",
+      "valueField": "TRM"
+  },  
+  "TUL": {
+      "balloonText": "<span style='font-size:14px; color:#000000;'><b>[[value]]</b></span>",
+      "fillAlphas": 0.6,
+      "lineAlpha": 0.4,
+      "hidden": true,
+      "title": "TULLOCH",
+      "valueField": "TUL"
+  },  
+  "UNV": {
+      "balloonText": "<span style='font-size:14px; color:#000000;'><b>[[value]]</b></span>",
+      "fillAlphas": 0.6,
+      "lineAlpha": 0.4,
+      "hidden": true,
+      "title": "UNION VALLEY",
+      "valueField": "UNV"
+  },  
+  "WHI": {
+      "balloonText": "<span style='font-size:14px; color:#000000;'><b>[[value]]</b></span>",
+      "fillAlphas": 0.6,
+      "lineAlpha": 0.4,
+      "hidden": true,
+      "title": "WHISKEYTOWN DAM (USBR)",
+      "valueField": "WHI"
+  }  
+}
