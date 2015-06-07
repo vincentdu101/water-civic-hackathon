@@ -47,6 +47,7 @@ app.directive('stackedArea', [
         //   }
         // }
         for (var i = 0; i < categories.length; i++) {
+          console.log(categories[i]);
           orderedCategories.push(allCategories[categories[i]]);
         }
       }
@@ -138,13 +139,15 @@ app.directive('stackedArea', [
       //     );
       // }
       queue()
-        .defer(d3.csv, 'js/data/all.csv')
+        .defer(d3.csv, 'js/data/all2.csv')
         .defer(d3.json, 'js/data/categories.json')
         .await(init);
       
       function init(error, data, headers){
         allData = data;
+        debugger;
         firstRow = allData[0];
+        console.log(headers);
         categories = Object.keys(headers);
         allCategories = headers;
         sortByLargest();
