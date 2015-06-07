@@ -1,0 +1,113 @@
+/* Empty. Add your own CSS if you like */
+  
+.bar:first-of-type {
+  margin-left: 5px;
+}
+
+.bar {
+  fill: steelblue;
+}
+
+.bar-title {
+  margin-top: 10px;
+  margin-left: 10px;
+}
+
+.bar:hover {
+  fill: brown;
+}
+
+.axis {
+  font: 10px sans-serif;
+}
+
+.axis path,
+.axis line {
+  fill: none;
+  stroke: #000;
+  shape-rendering: crispEdges;
+}
+
+.x.axis path {
+  display:none;
+}
+
+div.tooltip {
+  /*position: absolute;*/
+  width: 200px;
+  margin-left: 15px;
+  max-width: 200px;
+  height: auto;
+  padding: 5px;
+  background-color: white;
+  border-radius: 5px;
+  border: 1px solid #B8B8B8;
+  box-shadow: 4px 4px 10px rgba(0,0,0,0.5);
+  pointer-events: none;
+  font-family: sans-serif;
+  font-size: 12px;
+}
+
+.wrapper {
+  display: flex;
+  flex-flow: row wrap;
+  margin: 0px 10px;
+  max-height: 415px;
+}
+
+.wrapper .card {
+  min-height: 415px;
+}
+
+.bar-graph .card {
+  padding-right: 20px;
+}
+
+.field-shadow {
+  box-shadow: black 1px 2px;
+}
+
+path {
+  stroke-linejoin: round;
+  stroke-linecap: round;
+}
+
+.background {
+  fill: none;
+  stroke: #ddd;
+}
+
+.foreground {
+  fill: none;
+  pointer-events: all;
+  color: black;
+}
+
+.selected {
+  fill: #c7fe82;
+}
+
+.map-caption {
+  width: 300px;
+  height: 250px;
+  min-height: 250px;
+}
+
+@media all and (min-width: 800px) {
+  .map-center {
+    flex: 1 auto;
+  }
+}  
+
+@media all and (min-width: 1200px) {
+  .map-center {
+    flex: 3 0px;
+  }
+  .bar-graph {
+    order: 1;
+  }
+}
+
+.bar-chart {
+  margin-top: 15px;
+}
