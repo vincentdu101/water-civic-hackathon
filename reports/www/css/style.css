@@ -1,6 +1,6 @@
 /* Empty. Add your own CSS if you like */
   
-.bar:first-of-type {
+/*.bar:first-of-type {
   margin-left: 5px;
 }
 
@@ -34,7 +34,7 @@
 
 div.tooltip {
   /*position: absolute;*/
-  width: 200px;
+/*  width: 200px;
   margin-left: 15px;
   max-width: 200px;
   height: auto;
@@ -110,4 +110,21 @@ path {
 
 .bar-chart {
   margin-top: 15px;
+}*/
+
+#chartdiv {
+  width   : 100%;
+  height    : 500px;
+  font-size : 11px;
+}         
+
+.states {
+  fill: #ccc;
+  stroke: #fff;
+}
+
+.symbol {
+  fill: steelblue;
+  fill-opacity: .8;
+  stroke: #fff;
 }
